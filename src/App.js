@@ -12,7 +12,7 @@ import "/node_modules/bootstrap/dist/js/bootstrap.min.js";
 
 function App() {
   return (
-    <main className="w-screen h-screen p-1">
+    <main className="w-screen h-screen">
       <Router>
         <NavBar />
         <Routes>
